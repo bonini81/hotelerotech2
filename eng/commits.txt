@@ -1,0 +1,23 @@
+commit 8f362a6cc7ae62e65941f67ac790359f11004328
+Author: Andrés Domínguez <pugle81@gmail.com>
+Date:   Wed Dec 30 15:24:11 2015 -0500
+
+    Poniendo las imagenes que faltaban, arreglando el icono de check y arreglando logo Mobile
+
+commit f627006e34d378695e6e90bcee0d776e02c369df
+Author: Andrés Domínguez <pugle81@gmail.com>
+Date:   Wed Dec 30 00:28:13 2015 -0500
+
+    Arreglando los estilos de los textos como tamaño de texto uniforme, etc..
+
+commit 0057dc4d763612bde05e3210f3704beaf5e150ce
+Author: Andrés Domínguez <pugle81@gmail.com>
+Date:   Tue Dec 29 00:00:43 2015 -0500
+
+    Arreglando el Footer casi terminado
+
+commit 12c17f996430f0341225d75ea0223132410e8f73
+Author: Andrés Domínguez <pugle81@gmail.com>
+Date:   Mon Dec 28 23:40:09 2015 -0500
+
+    Comienzo de actualizacion de la web, x cotizacion.php falta todavia ver si funciona el form action

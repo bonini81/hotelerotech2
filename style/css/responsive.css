@@ -1,0 +1,2371 @@
+
+/*------------------------------------------------------------------------------*/
+/*                    width : 1200px
+/*------------------------------------------------------------------------------*/
+
+@media (min-width: 1200px) {
+
+
+
+.Boxed-i {
+width: 1200px;
+}
+
+.navbar-collapse {
+  display: inline-block !important;
+}
+
+}
+
+/*------------------------------------------------------------------------------*/
+/*                    width : 991px
+/*------------------------------------------------------------------------------*/
+@media (min-width: 991px) and (max-width: 1200px) {
+
+body{
+  overflow-x: hidden !important;
+}
+
+/* Pagina Index styles */
+
+
+ .container.inner.adb1  {
+  padding: 0px;
+}
+
+/* Sacando areas de la web desde footer e index de la version celular */
+.col-md-4.mobile3, #Bottom-Footer, section#Clients, section#Features-Us { display: none; }
+
+section#Welcome  {
+  display: none;
+}
+
+/* END Pagina Index styles   */
+
+
+.Block-Search {display: none !important;}
+
+.Boxed-i {
+width: 100% !important;
+}
+
+.col-md-push-2 {
+  left: 0% !important;
+}
+
+
+.col-md-3.portfolio-item.masonry-item {
+   width: 32% !important;
+}
+
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+  padding-bottom: 15px;
+  padding-top: 15px;
+  float: left;
+  width: 100%;
+}
+
+#about .col-md-3, ul.tabs-navigation .col-md-2, .col-md-3.portfolio-item, .block-Services.col-md-3,
+#Team .col-md-3, .col-md-4.portfolio-item, .col-md-2.portfolio-item{
+   float: left !important;
+   width: 25% !important;
+}
+
+.Cart-Login, .Contact-Header {
+    width: 50%;
+}
+
+.shop-content .col-md-4, #Services .col-md-3 {
+  float: left !important;
+  width: 50% !important;
+}
+
+.TopHeader .col-md-6 {
+	padding: 0;
+	width: 50%;
+}
+
+.Search-Block input {
+  width: 100%;
+}
+
+.shop-content.col-md-9 .bottom-shop-content.col-md-7 {
+padding: 0px 15px 0px 30px;
+float: left !important;
+width: 50% !important;
+}
+
+.Login-Icons {
+	text-align: right;
+}
+
+.PhoneNamber {
+	float: left;
+	display: none !important;
+	border-left: 1px Solid #e6e6e6;
+	padding: 0px 20px;
+}
+
+.Header-Style3 .Block-Search {
+  transform: translateY(-104px) !important;
+  padding: 15px !important;
+}
+
+
+.Top-ProjectItem p {
+  margin-top: 5px !important;
+}
+
+.counters-style5 .one_fourth h4 {
+  text-align: left !important;
+}
+
+iframe {
+  width: 100% !important;
+}
+
+ul.tabs-navigation:before {
+  left: 15% !important;
+  top: 47% !important;
+}
+
+.navbar .dropdown-menu {
+  top: 93px !important;
+}
+
+.Menu-Header {
+  float: none;
+  height: 93px;
+  width: 100%;
+  text-align: center !important;
+}
+
+.navbar-nav {
+  float: none !important;
+  margin: 0;
+  width: 100%;
+  text-align: center !important;
+}
+
+.Menu-Header ul li {
+  height: 96px;
+  padding: 0px 15px;
+  line-height: 7;
+  float: none !important;
+  display: inline-block !important;
+}
+
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) li {
+	float: none !important;
+  display: block !important
+}
+
+.dropdown.yamm-fullwidth .dropdown-menu li {
+  position: relative;
+  display: inline-block !important;
+  width: 100%;
+}
+
+.yamm-fullwidth ul.dropdown-menu div {
+padding: 0px 15px !important;
+}
+.open-left>.dropdown-menu:not(.yamm-dropdown-menu) {
+  left: -101% !important;
+  top: -3px !important;
+}
+
+.dropdown-submenu>.dropdown-menu:not(.yamm-dropdown-menu) {
+  border-top: 2px solid #4396ff !important;
+  top: -3px !important;
+}
+
+
+
+.option-box {
+display: none;
+}
+
+
+.Block-Search input {
+  width: 80% !Important;
+  font-size: 9px;
+}
+
+.Logo-Header.col-md-4, .Logo-Header.col-md-12 {
+  width: 70% !important;
+  display: inline-block;
+  float: left;
+}
+
+.Menu-responsive.col-md-12{
+	width: 100% !important;
+  display: inline-block;
+  float: left;
+  padding: 0;
+  text-align: left !important;
+}
+
+.navbar-logo {
+  padding: 0 !important;
+  font-size: 18px;
+  line-height: 20px;
+  background: url(../images/logo/logo-hotelero.jpg) no-repeat right center !important;
+  width: 100% !important;
+  height: 90px;
+  margin-left: 0 !important;
+  display: inline-block;
+}
+
+.navbar-collapse {
+  position: relative;
+  display: run-in !important;
+  width: 100%;
+}
+
+.Menu-Header ul li a.current:before {
+  width: 0 !important;
+}
+
+.Menu-Header ul li a:focus:active:before, .Menu-Header ul li:hover a:before {
+  width: 0 !important;
+}
+
+.title-section h3, .Features-Block h3, .Purchase-wrapper h3, .TextImg-Block h3, .Title-Us h3 {
+  font-size: 20px !important;
+	  line-height: 27px;
+}
+
+.description-welcome p {
+  font-size: 15px !important;
+  padding: 15px 0% !important;
+}
+
+.description-section p, .description-section-Features p, .tabs-content li.selected p, .Features-Block p, .TextImg-Block p,
+.Rights-Reserved h2, .Testimonials-Block p, .Process-tabs-content li.selected p {
+  padding: 0px 0% !important;
+  font-size: 12px !important;
+	line-height: 18px !important;
+}
+
+.Icons-Search, .responsive-menu {
+  padding:  0px;
+}
+
+
+.Top-Img-Team, .Top-ClassServices, .Team-Block, .Top-img-news {
+  overflow: visible !important;
+  position: relative;
+}
+
+.Block-Features.selected a:after {
+  display: none !important;
+}
+
+ul.tabs-one {
+    width: 48% !important;
+}
+
+ul.tabs-tow {
+    width: 49% !important;
+}
+
+ul.tabs-navigation:before {
+   display: none;
+}
+
+.tabs-content li, .About-Content ul li {
+  width: 100% !important;
+}
+
+.btn-notback {
+  display: inline-block !important;
+  margin-top: 15px !important;
+}
+
+.Purchase-wrapper, .Purchase-Click, .Purchase {
+  padding: 15px 15px !important;
+}
+
+.Join-Footer {
+  width: 100% !important;
+}
+
+.Header-Style4 .Block-Search {
+  transform: translateY(-103px) !important;
+  padding: 15px 0px !important;
+}
+
+.Header-Style4 .right-wrapper {
+  position: absolute !important;
+  top: -90px;
+  right: 0;
+}
+
+.Lastpost-Blog span:last-child {
+  margin-left: 12px !important;
+}
+
+.Lastpost-Blog a h4 {
+  font-size: 15px !important;
+  line-height: 25px;
+}
+
+.Testimonials-Info span, .Testimonials-Info h5 {
+  width: 65% !important;
+}
+
+.Bottom-Features {
+  display: none !important;
+}
+
+.Top-Case ul li {
+  display: inline-block;
+}
+
+.Join-Footer {
+  margin-left: 0 !important;
+}
+/* Enablement Language Eng icon in the header
+ul.icons-ul li:first-child{
+	display: none;
+
+}*/
+
+.Header-Style5 .navbar-logo, .Header-Style1 .navbar-logo, .Header-Style6 .navbar-logo {
+  width: 300px !important;
+}
+
+.Header-Style5 .basic-wrapper, .Header-Style1 .basic-wrapper, .Header-Style6 .basic-wrapper {
+  padding: 0px 15px !important;
+}
+
+.Header-Style5 .Menu-Header ul li a i {
+  display: inline !important;
+  text-align: left !important;
+  margin-right: 15px !important;
+}
+
+.Header-Style1 .Block-Search, .Header-Style5 .Block-Search, .Header-Style6 .Block-Search {
+  transform: translateY(-105px) !important;
+  padding: 15px;
+}
+
+.Navbar-Full {
+  top: 0px !important;
+}
+
+.Header-Style2 .Block-Search {
+  transform: translateY(-181px) !important;
+  padding: 15px !important;
+}
+
+.Login-Header {
+  padding: 0px 0px 34px 0px !important;
+  width: 100% !important;
+}
+
+.Post-f-img {
+display: none !important;
+}
+
+.Bottom-Testimonials p {
+	padding: 0px 0% !important;
+	margin: 0px 30px !important;
+  font-size: 12px !important;
+  line-height: 18px !important;
+}
+
+.Download-CV, .SocialAbout.Social-Footer {
+  width: 100% !important;
+  margin-bottom: 15px !important;
+}
+
+.Purchase a {
+  float: none !important;
+  margin-top: 15px !important;
+  display: inline-block !important;
+}
+
+.Contact-us .form-input {
+  width: 100% !important;
+}
+
+.form-submit {
+  display: block;
+  margin-top: 15px;
+  width: 100%;
+  float: left !important;
+  margin-bottom: 15px;
+}
+
+.accordions-style2 .section-content span {
+  font-size: 10px !important;
+}
+
+.accordions-style2 .section-content h4 a {
+  margin-left: 5px !important;
+}
+
+.Available-Vacancies input, .form-input input, .Available-Vacancies textarea, label.wi1 input, label.wi2 input, .order-textarea .textArea {
+  width: 100%;
+}
+
+.siteMap-nav ul ul {
+  margin: 10px 0px !important;
+  width: 100% !important;
+}
+
+.time_circles > div {
+  top: 42px !important;
+}
+
+.col-md-6.portfolio-item.masonry-item {
+  width: 32% !important;
+}
+
+.sort-by-click {
+  display: inline-block;
+  float: left !important;
+}
+
+.top-shop-content.col-md-5 {
+  padding: 15px !important;
+  width: 50% !important;
+  display: inline-block !important;
+  float: left !important;
+}
+
+
+.shop-content.col-md-9 .bottom-shop-content.col-md-7 {
+	padding: 15px !important;
+	width: 50% !important;
+	display: inline-block !important;
+	float: left !important;
+}
+
+
+.hover-shop-content {
+  padding: 30px 30px !important;
+}
+
+.img-shop-content p {
+  top: 35px !important;
+}
+
+.right-shop-content .reviews-shop-content {
+  top: 65px !important;
+}
+
+.option-items {
+  margin-top: 30px !important;
+}
+
+.Add-to-Cart {
+  float: left !important;
+  margin-top: 0 !important;
+  width: 100%;
+}
+
+.Add-to-Cart a {
+  padding: 20px 12px !important;
+	margin-left: 10px !important;
+}
+
+.info-items ul li p a:last-child {
+	display: none !important;
+}
+
+.Tabs-Style6.Shop-Tab ul.tab-nav li a {
+  padding: 0px 12px !important;
+}
+
+.shop-tab-content .Details p {
+  width: 100% !important;
+}
+
+.shop-content {
+  padding: 15px;
+}
+
+.zoomWindowContainer div {
+  border: none !important;
+  margin-left: -275px !important;
+  margin-top: 0;
+  width: 275px !important;
+  height: 100% !important;
+  border-radius: 20px 0px 0px 0px;
+}
+
+.shop-cart-content {
+  padding: 0px 15px;
+}
+
+.coupon-code input.txt-box, input#Postcode, .coupon-code-2 form #number {
+  margin-bottom: 15px !important;
+}
+
+.shop-customer p {
+  text-align: left;
+}
+
+.Credit-Card span {
+  font-size: 11px !important;
+}
+
+label.wi1, label.wi2, .Data-Expiry, .verification-Code {
+  width: 100% !important;
+  margin-right: 0 !important;
+}
+
+.form-billing h4 {
+  font-size: 18px !important;
+}
+
+.Promo-style3, .Promo-style4, .Promo-style2, .Promo-style1 {
+  padding: 20px !important;
+}
+
+.side-tabs .tab-content {
+  display: -webkit-inline-box !important;
+}
+
+.bs-docs-section:last-child {
+  padding: 15px !important;
+}
+
+.col-md-3.portfolio-item.Full-item {
+  padding: 0px;
+  width: 100% !important;
+}
+
+}
+/*------------------------------------------------------------------------------*/
+/*                    Width : 767px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+/* Pagina Index styles */
+
+
+ .container.inner.adb1  {
+  padding: 0px;
+}
+
+/* Sacando areas de la web desde footer e index de la version celular */
+.col-md-4.mobile3, #Bottom-Footer, section#Clients, section#Features-Us { display: none; }
+
+section#Welcome  {
+  display: none;
+}
+
+
+.Boxed-i {
+width: 100% !important;
+}
+
+.Icons-Search a {
+	display:none;
+	}
+	
+	
+body{
+	  overflow-x: hidden !important;
+}
+
+.col-md-3.portfolio-item.masonry-item {
+  width: 48% !important;
+}
+
+.col-md-3.portfolio-item.Full-item {
+  padding: 0px;
+  width: 100% !important;
+}
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+  padding-bottom: 15px;
+  padding-top: 15px;
+  float: left;
+  width: 100%;
+}
+
+#about .col-md-3, ul.tabs-navigation .col-md-2, .block-News.text-center.col-md-4, .col-md-3.portfolio-item, .block-Services.col-md-3,
+#Team .col-md-3, .col-md-4.portfolio-item, .col-md-2.portfolio-item, .shop-content .col-md-4, .TopHeader .col-md-6,
+#Our-Team .col-md-2.col-md-push-1, #Services .col-md-3 {
+  float: left !important;
+  width: 50% !important;
+}
+
+.Team-block:after {
+  left: 42% !important;
+}
+
+
+.TopHeader .col-md-6 {
+	padding: 0;
+}
+
+.PhoneNamber {
+    display: none !important;
+}
+
+.Cart-top.shopping-cart-Block {
+    padding: 0px !important;
+}
+
+.Cart-top .Icons-shopping-cart span {
+    top: 10px !important;
+}
+
+.Cart-top .shop-cart-header {
+    top: 57px !important;
+}
+
+.Cart-Login.col-md-6 {
+    display: none;
+}
+
+.Contact-Header {
+    padding: 25px 30px !important;
+}
+
+
+.Header-Style3 .Block-Search {
+  transform: translateY(-103px) !important;
+}
+
+
+.Top-ProjectItem p {
+  margin-top: 5px !important;
+}
+
+.counters-style5 .one_fourth h4 {
+  text-align: left !important;
+}
+
+iframe {
+  width: 100% !important;
+}
+
+.navbar .dropdown-menu {
+  top: 93px !important;
+  bottom: auto !important;
+}
+
+.Menu-Header {
+  float: none;
+  height: 93px;
+  width: 100%;
+  text-align: center !important;
+}
+
+.navbar-nav {
+  float: none !important;
+  margin: 0;
+  width: 100%;
+  text-align: center !important;
+}
+
+.Menu-Header ul li {
+  height: 96px;
+  padding: 0px 10px !important;
+  line-height: 1 !important;
+  float: none !important;
+  display: inline-block !important;
+}
+
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) li {
+	float: none !important;
+  display: block !important
+}
+
+.open-left>.dropdown-menu:not(.yamm-dropdown-menu) {
+  left: -101% !important;
+  top: -3px !important;
+}
+
+.dropdown-submenu>.dropdown-menu:not(.yamm-dropdown-menu) {
+  border-top: 2px solid #4396ff !important;
+  top: -3px !important;
+}
+
+
+.option-box {
+display: none;
+}
+
+
+.Block-Search input {
+  width: 80% !Important;
+  font-size: 9px;
+}
+
+.Logo-Header.col-md-4, .Logo-Header.col-md-12 {
+  width: 70% !important;
+  display: inline-block;
+  float: left;
+}
+
+.Menu-responsive.col-md-12{
+	width: 100% !important;
+  display: inline-block;
+  float: left;
+  padding: 0;
+  text-align: left !important;
+}
+
+
+.navbar-logo {
+  padding: 0 !important;
+  font-size: 18px;
+  line-height: 20px;
+  background: url(../images/logo/logo-hotelero.jpg) no-repeat right center !important;
+  width: 100% !important;
+  height: 90px;
+  margin-left: 0 !important;
+  display: inline-block;
+
+}
+
+.navbar-collapse {
+  position: relative;
+  display: run-in !important;
+  width: 100%;
+}
+
+.Menu-Header ul li a.current:before {
+  width: 0 !important;
+}
+
+.Menu-Header ul li a:focus:active:before, .Menu-Header ul li:hover a:before {
+  width: 0 !important;
+}
+
+.title-section h3, .Features-Block h3, .Purchase-wrapper h3, .TextImg-Block h3, .Title-Us h3 {
+  font-size: 20px !important;
+	  line-height: 27px;
+}
+
+.description-welcome p {
+  font-size: 15px !important;
+  padding: 15px 0% !important;
+}
+
+.description-section p, .description-section-Features p, .tabs-content li.selected p, .Features-Block p, .TextImg-Block p,
+.Rights-Reserved h2, .Testimonials-Block p, .Process-tabs-content li.selected p {
+  padding: 0px 0% !important;
+  font-size: 12px !important;
+	line-height: 18px !important;
+}
+
+.Icons-Search, .responsive-menu, .shopping-cart-Block{
+  padding: 15px 0px;
+}
+
+.Header-Style6 .sidebar-menu, .Header-Style5 .sidebar-menu {
+  padding: 8px 10px;
+}
+
+
+.Header-Style2 .sidebar-menu, .Header-Style1 .sidebar-menu  {
+  padding: 8px 10px;
+}
+
+.Header-Style4 .Menu-Header ul li{
+    line-height: 6 !important;
+}
+
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) li {
+    line-height: 1 !important;
+}
+
+
+.Icons-shopping-cart span {
+    top: 30px !important;
+}
+
+.shop-cart-header {
+    top: 90px !important;
+}
+
+
+.Top-Img-Team, .Top-ClassServices, .Team-Block, .Top-img-news {
+  overflow: visible !important;
+  position: relative;
+}
+
+.Block-Features.selected a:after {
+  display: none !important;
+}
+
+ul.tabs-one {
+    width: 48% !important;
+}
+
+ul.tabs-tow {
+    width: 49% !important;
+}
+
+ul.tabs-navigation:before {
+   display: none;
+}
+
+.tabs-content li, .About-Content ul li {
+  width: 100% !important;
+}
+
+.btn-notback {
+  display: inline-block !important;
+  margin-top: 15px !important;
+}
+
+.Purchase-wrapper, .Purchase-Click, .Purchase {
+  padding: 15px 15px !important;
+}
+
+.Join-Footer {
+  width: 100% !important;
+}
+
+.Header-Style4 .Block-Search {
+  transform: translateY(-103px) !important
+}
+
+.Header-Style4 .right-wrapper {
+  position: absolute !important;
+  top: -90px;
+  right: 0;
+}
+
+.Lastpost-Blog span:last-child {
+  margin-left: 12px !important;
+}
+
+.Lastpost-Blog a h4 {
+  font-size: 15px !important;
+  line-height: 25px;
+}
+
+.Testimonials-Info span, .Testimonials-Info h5 {
+  width: 65% !important;
+}
+
+.Bottom-Features {
+  display: none !important;
+}
+
+.Top-Case ul li {
+  display: inline-block;
+}
+
+.Join-Footer {
+  margin-left: 0 !important;
+}
+
+/* Este estulo hace que aparezca en el header en el 2do idioma que es Eng  
+ul.icons-ul li:first-child{
+	display: none;
+
+}*/
+
+.Header-Style5 .navbar-logo, .Header-Style1 .navbar-logo, .Header-Style6 .navbar-logo {
+  width: 380px !important;
+}
+
+.Header-Style5 .basic-wrapper, .Header-Style1 .basic-wrapper, .Header-Style6 .basic-wrapper {
+  padding: 15px !important;
+}
+
+.Header-Style5 .Menu-Header ul li a i {
+  display: inline !important;
+  text-align: left !important;
+  margin-right: 13px !important;
+}
+
+.Header-Style1 .Block-Search, .Header-Style5 .Block-Search, .Header-Style6 .Block-Search {
+  transform: translateY(-105px) !important
+}
+
+.Navbar-Full {
+  top: 0px !important;
+}
+
+.Header-Style2 .Block-Search {
+  transform: translateY(-158px) !important;
+  padding: 15px !important;
+}
+
+
+.Header-Style5 .Menu-Header ul li:not(.yamm-dropdown-menu) {
+    height: 96px;
+    line-height: 1 !important;
+	padding: 0px 8px !important;
+}
+
+.Login-Header {
+    padding: 0px 0px 34px 0px !important;
+    width: 20% !important;
+}
+
+.Catogry-Pages {
+  text-align: left !important;
+}
+
+.Bottom-Testimonials p {
+	padding: 0px 0% !important;
+	margin: 0px 30px !important;
+  font-size: 12px !important;
+  line-height: 18px !important;
+}
+
+.Download-CV, .SocialAbout.Social-Footer {
+  width: 100% !important;
+  margin-bottom: 15px !important;
+}
+
+.Purchase a {
+  float: none !important;
+  margin-top: 15px !important;
+  display: inline-block !important;
+}
+
+.Contact-us .form-input {
+  width: 100% !important;
+}
+
+.form-submit {
+  display: block;
+  margin-top: 15px;
+  width: 100%;
+  float: left !important;
+  margin-bottom: 15px;
+}
+
+.accordions-style2 .section-content span {
+  font-size: 10px !important;
+}
+
+.accordions-style2 .section-content h4 a {
+  margin-left: 5px !important;
+}
+
+.Available-Vacancies input, .form-input input, .Available-Vacancies textarea, label.wi1 input, label.wi2 input, .order-textarea .textArea {
+  width: 100%;
+}
+
+.siteMap-nav ul ul {
+  margin: 10px 0px !important;
+  width: 100% !important;
+}
+
+.time_circles > div {
+  top: 42px !important;
+}
+
+.col-md-6.portfolio-item.masonry-item {
+  width: 90% !important;
+}
+
+.sort-by-click {
+  display: inline-block;
+  float: left !important;
+}
+
+.top-shop-content.col-md-5 {
+	padding: 15px !important;
+	width: 50% !important;
+	display: inline-block !important;
+	float: left !important;
+}
+
+.shop-content.col-md-9 .bottom-shop-content.col-md-7 {
+	padding: 15px !important;
+	width: 50% !important;
+	display: inline-block !important;
+	float: left !important;
+}
+
+.hover-shop-content {
+  padding: 30px 30px !important;
+}
+
+.img-shop-content p {
+  top: 35px !important;
+}
+
+.right-shop-content .reviews-shop-content {
+  top: 65px !important;
+}
+
+.option-items {
+  margin-top: 30px !important;
+}
+
+.Add-to-Cart {
+  float: left !important;
+  margin-top: 0 !important;
+  width: 100%;
+}
+
+.Add-to-Cart a {
+  padding: 20px 12px !important;
+	margin-left: 10px !important;
+}
+
+.info-items ul li p a:last-child {
+	display: none !important;
+}
+
+.Tabs-Style6.Shop-Tab ul.tab-nav li a {
+  padding: 0px 12px !important;
+}
+
+.shop-tab-content .Details p {
+  width: 100% !important;
+}
+
+.shop-content {
+  padding: 15px;
+}
+
+.sort-by-select select {
+    width: 82% !important;
+}
+
+
+.with1, .with2, .coupon-code-2 form  {
+  width: 50% !important;
+  display: inline-block;
+}
+
+.zoomWindowContainer div {
+  border: none !important;
+  margin-left: -275px !important;
+  margin-top: 0;
+  width: 275px !important;
+  height: 100% !important;
+  border-radius: 20px 0px 0px 0px;
+}
+
+.shop-cart-content {
+  padding: 0px 15px;
+}
+
+.coupon-code input.txt-box, input#Postcode, .coupon-code-2 form #number {
+  margin-bottom: 15px !important;
+}
+
+.shop-customer p {
+  text-align: left;
+}
+
+.Credit-Card span {
+  font-size: 11px !important;
+}
+
+label.wi1, label.wi2, .Data-Expiry, .verification-Code {
+  width: 100% !important;
+  margin-right: 0 !important;
+}
+
+.form-billing h4 {
+  font-size: 18px !important;
+}
+
+.Promo-style3, .Promo-style4, .Promo-style2, .Promo-style1 {
+  padding: 20px !important;
+}
+
+.side-tabs .tab-content {
+  display: -webkit-inline-box !important;
+}
+
+.bs-docs-section:last-child {
+  padding: 15px !important;
+}
+
+.Block-Search {display: none !important;}
+
+}
+/*------------------------------------------------------------------------------*/
+/*                    width : 452px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+
+.Boxed-i {
+width: 100% !important;
+}
+
+body{
+	  overflow-x: hidden !important;
+}
+
+.col-md-3.portfolio-item.masonry-item {
+  width: 47% !important;
+}
+
+.col-md-3.portfolio-item.Full-item {
+  padding: 0px;
+  width: 100% !important;
+}
+
+.responsive-menu a {
+    display: block !important;
+}
+
+.Header-Style4 .Icons-Search{
+    padding: 15px 0px !important;
+    display: inline-block !important;
+	float: none !important;
+}
+
+.Icons-Search a, .responsive-menu a {
+}
+
+.Header-Style4 .right-wrapper {
+    float: none !important;
+    margin: 0px 43%;
+    text-align: center;
+    width: 100px;
+}
+
+.Header-Style3 .right-wrapper {
+    position: relative;
+    float: none;
+    margin: 0px 38%;
+    display: inline-block;
+    margin-top: -48px;
+    width: 125px;
+}
+
+.Header-Style3 .responsive-menu {
+    padding: 8px 0px !important;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+  padding-bottom: 15px;
+  padding-top: 15px;
+  float: left;
+  width: 100%;
+}
+
+#about .col-md-3, ul.tabs-navigation .col-md-2, .col-md-3.portfolio-item, .block-Services.col-md-3,
+#Team .col-md-3, .col-md-4.portfolio-item, .col-md-2.portfolio-item, .shop-content-list,
+#Our-Team .col-md-2.col-md-push-1, #Services .col-md-3 {
+  float: left !important;
+  width: 50% !important;
+}
+
+
+.shop-content .col-md-4 {
+    width: 100%;
+    float: left;
+}
+
+
+.Team-block:after {
+  left: 42% !important;
+}
+
+.Top-ProjectItem p {
+  margin-top: 5px !important;
+}
+
+.counters-style5 .one_fourth h4 {
+  text-align: left !important;
+}
+
+
+iframe {
+  width: 100% !important;
+}
+
+.navbar-collapse.in {
+overflow-y: hidden;
+width: 100%;
+position: relative;
+display: inline-block;
+height: 100%;
+background: #FFF;
+}
+
+.Header-Style2 .Contact-Header.col-md-6 {
+    width: 100%;
+    padding: 0px 19%;
+}
+
+.Header-Style2 .Cart-Login.col-md-6 {
+    display: none;
+}
+
+.TopHeader-2 .Menu-Header ul li a {
+  color: #777777 !important;
+}
+
+.Header-Agency .responsive-menu a {
+  color: #FFF !important;
+}
+
+.Menu-Header {
+float: left;
+height: 100% !important;
+width: 100% !important;
+}
+
+.Menu-Header ul li {
+padding: 0px 15px !important;
+height: 100% !important;
+line-height: 4 !important;
+}
+
+.Menu-Header ul li a:hover:before {
+content: " ";
+color: #4396ff;
+border-top: 0px Solid #4396ff !important;
+width: 20px;
+display:block;
+margin: auto;
+height: 10px;
+}
+
+.Menu-Header ul li a {
+font-size: 15px;
+color: #777777;
+font-family: 'Lato', sans-serif;
+text-transform: uppercase;
+padding: 0px;
+font-weight: 700 !important;
+padding:5px !important;
+background:none !important;
+}
+
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) > li > a:hover {
+background:none !important;
+}
+
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) li a i {
+  display: inline-block;
+  text-align: right;
+  position: absolute;
+  right: 0px !important;
+}
+
+a.dropdown-toggle.js-activated {
+margin-bottom: 15px;
+}
+
+.Header-Style3 .Block-Search {
+  transform: translateY(-109px)!important;
+}
+
+.option-box {
+display: none;
+}
+
+.TopHeader {
+  display: none !important;
+}
+
+.Block-Search input {
+  width: 80% !Important;
+  font-size: 9px;
+}
+
+.Logo-Header.col-md-4, .Logo-Header.col-md-12 {
+  width: 100% !important;
+  display: inline-block;
+  float: left;
+  padding-top: 0;
+  padding-bottom: 40px;
+}
+
+.Header-Style2 .Contact-Header .PhoneNamber {
+    display: none !important;
+}
+
+.Header-Style2 .Login-Header {
+    width: 30% !important;
+}
+
+.Header-Style2 .Logo-Header.col-md-4, .Header-Style2 .Logo-Header.col-md-12 {
+    padding-bottom: 0px !important;
+}
+
+.Header-Style2 .Icons-Search, .Header-Style2 .responsive-menu, .Header-Style2 .shopping-cart-Block {
+    padding: 0px 0px !important;
+}
+
+.Header-Style2 .Icons-shopping-cart span {
+    top: 11px !important;
+    right: -10px !important;
+}
+
+.Header-Style2 .right-wrapper {
+    position: relative;
+    float: none !important;
+    margin: 0px 34%;
+    text-align: center;
+    width: 140px;
+    margin-top: -50px;
+    display: inline-block;
+}
+
+.Header-Style2 .responsive-menu.pull-right {
+    margin: 0px 20px;
+}
+
+
+
+
+.Header-Style3 .Logo-Header.col-md-4, .Header-Style3 .Logo-Header.col-md-12 {
+  width: 100% !important;
+  display: inline-block;
+  float: left;
+  padding-top: 0;
+  padding-bottom: 0px !important;
+}
+
+.Header-Style4 .navbar-logo {
+    margin-left: 0px;
+    margin-bottom: 0 !important;
+}
+
+.Menu-responsive.col-md-12{
+	width: 100% !important;
+  display: inline-block;
+  float: left;
+  padding: 0;
+  text-align: left !important;
+}
+
+.navbar-logo {
+  padding: 0 !important;
+  font-size: 18px;
+  line-height: 20px;
+  background: url(../images/logo/logo-hotelero.jpg) no-repeat center !important;
+  width: 100% !important;
+  height: 90px;
+  margin-left: 0 !important;
+  display: inline-block;
+}
+
+.navbar-collapse {
+  position: relative;
+  display: run-in !important;
+  width: 100%;
+}
+
+.Menu-Header ul li a.current:before {
+  width: 0 !important;
+}
+
+.Menu-Header ul li a:focus:active:before, .Menu-Header ul li:hover a:before {
+  width: 0 !important;
+}
+
+.title-section h3, .Features-Block h3, .Purchase-wrapper h3, .TextImg-Block h3, .Title-Us h3 {
+  font-size: 20px !important;
+	  line-height: 27px;
+}
+
+.description-welcome p {
+  font-size: 15px !important;
+  padding: 15px 0% !important;
+}
+
+.Icons-Search, .responsive-menu, .shopping-cart-Block {
+  padding: 15px 0px;
+}
+
+.Icons-shopping-cart span {
+	top: 30px !important;
+    right: 85px !important;
+}
+
+.shop-cart-header {
+	top: 90px !important;
+    right: 47px !important;
+}
+
+.description-section p, .description-section-Features p, .tabs-content li.selected p, .Features-Block p, .TextImg-Block p,
+.Rights-Reserved h2, .Testimonials-Block p, .Process-tabs-content li.selected p {
+  padding: 0px 0% !important;
+  font-size: 12px !important;
+	line-height: 18px !important;
+}
+
+.About-Content a.btn-bck {
+  display: none;
+}
+
+.Top-Img-Team, .Top-ClassServices, .Team-Block, .Top-img-news {
+  overflow: visible !important;
+  position: relative;
+}
+
+.Block-Features.selected a:after {
+  display: none !important;
+}
+
+ul.tabs-one {
+    width: 48% !important;
+}
+
+ul.tabs-tow {
+    width: 49% !important;
+}
+
+.tabs-content li, .About-Content ul li {
+  width: 100% !important;
+}
+
+.btn-notback {
+  display: inline-block !important;
+  margin-top: 15px !important;
+}
+
+.Purchase-wrapper, .Purchase-Click, .Purchase {
+  padding: 15px 15px !important;
+}
+
+.Join-Footer {
+  width: 100% !important;
+}
+
+.Header-Style4 .Block-Search {
+  transform: translateY(-97px) !important
+}
+
+.Header-Style4 .right-wrapper {
+  position: absolute !important;
+  top: -100px !important;
+  right: 0;
+  margin: 0 35%;
+  width: 150px;
+}
+
+.Lastpost-Blog span:last-child {
+  margin-left: 12px !important;
+}
+
+.Header-Style4 .responsive-menu.pull-right {
+    margin-left: -20px;
+    margin-right: 30px;
+}
+
+.Lastpost-Blog a h4 {
+  font-size: 15px !important;
+  line-height: 25px;
+}
+
+.Testimonials-Info span, .Testimonials-Info h5 {
+  width: 65% !important;
+}
+
+.Bottom-Features {
+  display: none !important;
+}
+
+.Top-Case ul li {
+  display: inline-block;
+  width: auto;
+}
+
+ul.tabs-navigation:before {
+  display: none !important;
+}
+
+.Join-Footer {
+  margin-left: 0 !important;
+}
+
+.sidebar-menu {
+  display: none !important;
+}
+
+.Header-Style5 .navbar-logo, .Header-Style1 .navbar-logo, .Header-Style6 .navbar-logo {
+  width: 320px !important;
+}
+
+.Header-Style5 .basic-wrapper, .Header-Style1 .basic-wrapper, .Header-Style6 .basic-wrapper {
+  padding: 15px !important;
+}
+
+.Header-Style5 .Menu-Header ul li a i {
+  display: inline !important;
+  text-align: left !important;
+  margin-right: 15px !important;
+}
+
+.Header-Style1 .Block-Search, .Header-Style5 .Block-Search, .Header-Style6 .Block-Search {
+  transform: translateY(-62px) !important;
+}
+
+.Navbar-Full {
+  top: 0px !important;
+}
+
+.Header-Style2 .Block-Search {
+  transform: translateY(-152px) !important;
+}
+
+.Header-Style2 .Contact-Header .Email-Site p {
+    padding: 0px 20px !important;
+}
+
+.Header-Style2 .shop-cart-header {
+    top: 50px !important;
+    right: 15px !important;
+}
+
+
+.Login-Header {
+  padding: 0px 0px 34px 0px !important;
+  width: 100% !important;
+}
+
+.Catogry-Pages {
+  text-align: left !important;
+}
+
+.Bottom-Testimonials p {
+	padding: 0px 0% !important;
+	margin: 0px 30px !important;
+  font-size: 12px !important;
+  line-height: 18px !important;
+}
+
+.Download-CV, .SocialAbout.Social-Footer {
+  width: 100% !important;
+  margin-bottom: 15px !important;
+}
+
+.Purchase a {
+  float: none !important;
+  margin-top: 15px !important;
+  display: inline-block !important;
+}
+
+.Contact-us .form-input {
+  width: 100% !important;
+}
+
+.form-submit {
+  display: block;
+  margin-top: 15px;
+  width: 100%;
+  float: left !important;
+  margin-bottom: 15px;
+}
+
+.accordions-style2 .section-content span {
+  font-size: 10px !important;
+}
+
+.accordions-style2 .section-content h4 a {
+  margin-left: 5px !important;
+}
+
+.Available-Vacancies input, .form-input input, .Available-Vacancies textarea, label.wi1 input, label.wi2 input, .order-textarea .textArea {
+  width: 100%;
+}
+
+.siteMap-nav ul ul {
+  margin: 10px 0px !important;
+  width: 100% !important;
+}
+
+.time_circles > div {
+  top: 42px !important;
+}
+
+.col-md-6.portfolio-item.masonry-item {
+  width: 90% !important;
+}
+
+.sort-by-click {
+  display: inline-block;
+  float: left !important;
+}
+
+.top-shop-content.col-md-5 {
+  padding: 15px !important;
+}
+
+
+.hover-shop-content {
+  padding: 30px 30px !important;
+}
+
+.img-shop-content p {
+  top: 35px !important;
+}
+
+.right-shop-content .reviews-shop-content {
+  top: 65px !important;
+}
+
+.option-items {
+  margin-top: 30px !important;
+}
+
+.Add-to-Cart {
+  float: left !important;
+  margin-top: 0 !important;
+  width: 100%;
+}
+
+.Add-to-Cart a {
+  padding: 20px 12px !important;
+	margin-left: 10px !important;
+}
+
+.info-items ul li p a:last-child {
+	display: none !important;
+}
+
+.Tabs-Style6.Shop-Tab ul.tab-nav li a {
+  padding: 0px 12px !important;
+}
+
+.shop-tab-content .Details p {
+  width: 100% !important;
+}
+
+.shop-content {
+  padding: 15px;
+}
+
+.sort-by-select select {
+    width: 80% !important;
+}
+
+
+.with1, .with2, .coupon-code-2 form  {
+  width: 50% !important;
+  display: inline-block;
+}
+
+.zoomWindowContainer div {
+  border: none !important;
+  margin-left: -275px !important;
+  margin-top: 0;
+  width: 275px !important;
+  height: 100% !important;
+  border-radius: 20px 0px 0px 0px;
+}
+
+.shop-cart-content {
+  padding: 0px 15px;
+}
+
+.coupon-code input.txt-box, input#Postcode, .coupon-code-2 form #number {
+  margin-bottom: 15px !important;
+}
+
+.shop-customer p {
+  text-align: left;
+}
+
+.Credit-Card span {
+  font-size: 11px !important;
+}
+
+label.wi1, label.wi2, .Data-Expiry, .verification-Code {
+  width: 100% !important;
+  margin-right: 0 !important;
+}
+
+.form-billing h4 {
+  font-size: 18px !important;
+}
+
+.Promo-style3, .Promo-style4, .Promo-style2, .Promo-style1 {
+  padding: 20px !important;
+}
+
+.side-tabs .tab-content {
+  display: -webkit-inline-box !important;
+}
+
+.bs-docs-section:last-child {
+  padding: 15px !important;
+}
+
+
+	
+}
+/*------------------------------------------------------------------------------*/
+/*                    width : 250px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 250px) and (max-width: 480px) {
+
+/* Pagina Index styles */
+ .container.inner.adb1  {
+  padding: 0px;
+}
+
+section#Welcome  {
+  display: none;
+}
+
+.Block-Search {
+  display: inline;
+}
+
+section.mobilefirst   {
+  display: block !important;
+height: 268px;
+    width: 100%;
+}
+
+img.movilfirst1 {
+   display: block !important;
+width: 100% !important;
+height: 268px;
+}
+
+
+/* END Pagina Index styles */
+
+.Boxed-i {
+width: 100% !important;
+}
+
+body{
+	  overflow-x: hidden !important;
+}
+
+
+.col-md-3.portfolio-item.Full-item {
+  padding: 0px;
+  width: 100% !important;
+}
+
+.container .col-md-3.portfolio-item, .container .col-md-4.portfolio-item, .container .col-md-6.portfolio-item {
+    margin-bottom: 30px;
+    width: 100% !important;
+}
+
+/* Sacando areas de la web desde footer e index de la version celular */
+.col-md-4.mobile3, #Bottom-Footer, section#Clients { display: none; }
+
+ul.tabs-navigation .col-md-2 {
+    float: none !important;
+}
+
+.Header-Style1 .responsive-menu a {
+    display: block !important;
+    padding: 0px !important;
+    margin-top: 8px;
+}
+
+.responsive-menu a {
+    display: block !important;
+}
+
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+
+.navbar-collapse.in {
+overflow-y: hidden;
+width: 100%;
+position: relative;
+display: inline-block;
+height: 100%;
+background: #FFF;
+}
+
+.TopHeader-2 .Menu-Header ul li a {
+  color: #777777 !important;
+}
+
+.Header-Agency .responsive-menu a {
+  color: #FFF !important;
+}
+
+.Menu-Header {
+float: left;
+height: 100% !important;
+width: 100% !important;
+}
+
+.Menu-Header ul li {
+padding: 0px 15px !important;
+height: 100% !important;
+line-height: 4 !important;
+}
+
+.Menu-Header ul li a:hover:before {
+content: " ";
+color: #4396ff;
+border-top: 0px Solid #4396ff !important;
+width: 20px;
+display:block;
+margin: auto;
+height: 10px;
+}
+
+.Menu-Header ul li a {
+font-size: 15px;
+color: #777777;
+font-family: 'Lato', sans-serif;
+text-transform: uppercase;
+padding: 0px;
+font-weight: 700 !important;
+padding:5px !important;
+background:none !important;
+}
+
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) > li > a:hover {
+background:none !important;
+}
+
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) li a i {
+  display: inline-block;
+  text-align: right;
+  position: absolute;
+  right: 0px !important;
+}
+
+a.dropdown-toggle.js-activated {
+margin-bottom: 15px;
+}
+
+.Header-Style3 .Block-Search {
+    transform: translateY(-62px) !important;
+    position: fixed !important;
+    top: 0 !important;
+}
+
+.option-box {
+display: none;
+}
+
+.TopHeader {
+  display: none !important;
+}
+
+.Block-Search input {
+  width: 80% !Important;
+  font-size: 9px;
+}
+
+.Header-Style2 .Logo-Header.col-md-4, .Header-Style2 .Logo-Header.col-md-12 {
+    width: 100% !important;
+    display: inline-block;
+    float: left;
+    padding-top: 0;
+    padding-bottom: 00px;
+	padding-left: 0;
+    padding-right: 0;
+}
+
+
+.Header-Style4 a.responsive-menu.pull-right {
+    padding: 8px 10px !important;
+    margin-left: 0px;
+    margin-left: 0px;
+}
+
+.Menu-responsive.col-md-12{
+	width: 100% !important;
+  display: inline-block;
+  float: left;
+  padding: 0;
+  text-align: left !important;
+}
+
+.navbar-logo {
+  padding: 0 !important;
+  font-size: 18px;
+  line-height: 20px;
+  background: url(../images/logo/logo-hotelero.jpg) no-repeat center !important;
+  width: 100% !important;
+  height: 90px;
+  margin-left: 0 !important;
+  margin-top:15px;
+  display: inline-block;
+}
+
+/*Aqui esta el error ese del hueco grande en el menu mobile */
+.navbar-collapse {
+  position: relative;
+  display: run-in !important;
+  width: 100%;
+  height:1px;
+}
+
+.Menu-Header ul li a.current:before {
+  width: 0 !important;
+}
+
+/* Area donde explica los 6 servicios de la Home */
+#Features-Us {
+  display: none;
+}
+
+.Menu-Header ul li a:focus:active:before, .Menu-Header ul li:hover a:before {
+  width: 0 !important;
+}
+
+.title-section h3, .Features-Block h3, .Purchase-wrapper h3, .TextImg-Block h3, .Title-Us h3 {
+  font-size: 20px !important;
+	  line-height: 27px;
+}
+
+.description-welcome p {
+  font-size: 15px !important;
+  padding: 15px 0% !important;
+}
+
+.Icons-shopping-cart span {
+    top: 32px !important;
+    right: 90px !important;
+}
+
+.Header-Style3 .Icons-shopping-cart span {
+    top: 27px !important;
+    right: 0px !important;
+}
+
+.Header-Style3 .shop-cart-header {
+    top: 96px !important;
+    right: -150px !important;
+}
+
+
+.shop-cart-header {
+    top: 86px !important;
+    right: -55px !important;
+}
+
+.shop-cart-header:before {
+    right: 162px !important;
+}
+
+
+.description-section p, .description-section-Features p, .tabs-content li.selected p, .Features-Block p, .TextImg-Block p,
+.Rights-Reserved h2, .Testimonials-Block p, .Process-tabs-content li.selected p {
+  padding: 0px 0% !important;
+  font-size: 12px !important;
+	line-height: 18px !important;
+}
+
+.Icons-Search a {
+/*    padding: 15px 0px !important;
+    display: inline-block !important;
+	float: right !important;*/
+  display: none;
+}
+
+.menuicono {margin-top: 55px !important;}
+
+/* Para que no aparezca el video */ 
+   .home-video {display:none}
+
+
+.responsive-menu {
+    padding: 2px 10px !important;
+}
+
+.Header-Style2 .right-wrapper {
+    position: relative;
+    float: none !important;
+    margin: 0px 38% !important;
+    text-align: center;
+    width: 90px;
+    margin-top: -50px !important;
+    display: inline-block;
+}
+
+.Header-Style2 .responsive-menu.pull-right {
+    margin: 10px 0px;
+    padding: 0px 6px !important;
+}
+
+.Header-Style1 .right-wrapper {
+    position: relative;
+    float: none !important;
+    margin: 0px 38%;
+    text-align: center;
+    width: 80px;
+    margin-top: -60px;
+    display: inline-block;
+}
+
+.right-wrapper {
+    position: relative;
+    float: none !important;
+    margin: 0px 32%;
+    text-align: center;
+    width: 140px;
+    margin-top: -60px;
+    display: inline-block;
+}
+
+.Header-Style3 .right-wrapper {
+    position: relative;
+    float: none !important;
+    margin: 0px 36%;
+    text-align: center;
+    width: 95px;
+    margin-top: -60px;
+    display: inline-block;
+}
+
+
+.Header-Style3 .shopping-cart-Block {
+    float: left;
+    display: block;
+    padding: 15px 0px;
+    position: absolute;
+    left: -40px;
+}
+
+.About-Content a.btn-bck {
+  display: none;
+}
+
+.Top-Img-Team, .Top-ClassServices, .Team-Block, .Top-img-news {
+  overflow: visible !important;
+  position: relative;
+}
+
+.Block-Features.selected a:after {
+  display: none !important;
+}
+
+ul.tabs-one {
+    width: 100% !important;
+}
+
+ul.tabs-tow {
+    width: 100% !important;
+}
+
+ul.tabs-navigation:before {
+    display: none;
+}
+.tabs-content li, .About-Content ul li {
+  width: 100% !important;
+}
+
+.About-over {
+    padding: 15px 30px !important;
+}
+
+.About-Content img {
+    width: 100%;
+    height: 260px;
+}
+
+.About-over p {
+    font-size: 14px !important;
+    margin-bottom: 0 !important;
+}
+
+.block-tabs-content img {
+    float: none !important;
+}
+
+.btn-notback {
+  display: inline-block !important;
+  margin-top: 15px !important;
+}
+
+.Purchase-wrapper, .Purchase-Click, .Purchase {
+  padding: 15px 15px !important;
+}
+
+.Join-Footer {
+  width: 100% !important;
+}
+
+.Header-Style4 .Block-Search {
+  transform: translateY(-113px) !important
+}
+
+.Header-Style4 .Logo-Header.col-md-12 {
+    padding-bottom: 80px;
+}
+
+.Header-Style4 .right-wrapper {
+    position: absolute !important;
+    top: -53px;
+    right: 0;
+    width: 98px;
+    margin: -51px 33% !important;
+}
+
+.Lastpost-Blog span:last-child {
+  margin-left: 12px !important;
+}
+
+.Lastpost-Blog a h4 {
+  font-size: 15px !important;
+  line-height: 25px;
+}
+
+.Testimonials-Info span, .Testimonials-Info h5 {
+  width: 65% !important;
+}
+
+
+.Bottom-Features {
+  display: none !important;
+}
+
+.Top-Case ul li {
+  display: inline-block;
+}
+
+.Join-Footer {
+  margin-left: 0 !important;
+}
+
+.sidebar-menu {
+  display: none !important;
+}
+
+.Header-Style5 .navbar-logo, .Header-Style1 .navbar-logo, .Header-Style6 .navbar-logo {
+    width: 110% !important;
+    text-align: center;
+}
+
+.Header-Style5 .basic-wrapper, .Header-Style1 .basic-wrapper, .Header-Style6 .basic-wrapper {
+  padding: 15px !important;
+  width: 100%;
+}
+
+.Header-Style5 .right-wrapper {
+    position: relative;
+    float: none !important;
+    margin: 0px 35% !important;
+    text-align: center;
+    width: 100px !important;
+    margin-top: -60px !important;
+    display: inline-block;
+}
+
+.Header-Style6 .right-wrapper {
+    position: relative;
+    float: none !important;
+    margin: 0px 35% !important;
+    text-align: center;
+    width: 100px !important;
+    margin-top: -60px !important;
+    display: inline-block;
+}
+
+
+.TopBlock-Header {
+    width: 100%;
+    border-bottom: 1px Solid #e6e6e6;
+    display: none !important;
+}
+
+.Header-Style5 .Menu-Header ul li a i {
+  display: inline !important;
+  text-align: left !important;
+  margin-right: 15px !important;
+}
+
+.Header-Style1 .Block-Search, .Header-Style5 .Block-Search, .Header-Style6 .Block-Search {
+  transform: translateY(-127px) !important;
+}
+
+.Navbar-Full {
+  top: 0px !important;
+}
+
+.Header-Style2 .Block-Search {
+  transform: translateY(-107px) !important;
+}
+
+.Login-Header {
+  padding: 0px 0px 34px 0px !important;
+  width: 100% !important;
+}
+
+.Catogry-Pages {
+  text-align: left !important;
+}
+
+.Bottom-Testimonials p {
+	padding: 0px 0% !important;
+	margin: 0px 30px !important;
+  font-size: 12px !important;
+  line-height: 18px !important;
+}
+
+.Download-CV, .SocialAbout.Social-Footer {
+  width: 100% !important;
+  margin-bottom: 15px !important;
+}
+
+.Purchase a {
+  float: none !important;
+  margin-top: 15px !important;
+  display: inline-block !important;
+}
+
+.Contact-us .form-input {
+  width: 100% !important;
+}
+
+.form-submit {
+  display: block;
+  margin-top: 15px;
+  width: 100%;
+  float: left !important;
+  margin-bottom: 15px;
+}
+
+.accordions-style2 .section-content span {
+  font-size: 10px !important;
+}
+
+.accordions-style2 .section-content h4 a {
+  margin-left: 5px !important;
+}
+
+.Available-Vacancies input, .form-input input, .Available-Vacancies textarea, label.wi1 input, label.wi2 input, .order-textarea .textArea {
+  width: 100%;
+}
+
+.siteMap-nav ul ul {
+  margin: 10px 0px !important;
+  width: 100% !important;
+}
+
+.time_circles > div {
+  top: 42px !important;
+}
+
+.col-md-6.portfolio-item.masonry-item {
+  width: 90% !important;
+}
+
+.sort-by-click {
+  display: inline-block;
+  float: left !important;
+  margin: 0px 10px !important;
+}
+
+.top-shop-content.col-md-5 {
+  padding: 15px !important;
+}
+
+.hover-shop-content {
+  padding: 30px 30px !important;
+}
+
+.img-shop-content p {
+  top: 35px !important;
+}
+
+.right-shop-content .reviews-shop-content {
+  top: 65px !important;
+}
+
+.option-items {
+  margin-top: 30px !important;
+}
+
+.Add-to-Cart {
+  float: left !important;
+  margin-top: 0 !important;
+}
+
+.Add-to-Cart a {
+  padding: 20px 12px !important;
+	margin-left: 10px !important;
+}
+
+.info-items ul li p a:last-child {
+	display: none !important;
+}
+
+.Tabs-Style6.Shop-Tab ul.tab-nav li a {
+  padding: 0px 12px !important;
+}
+
+.shop-tab-content .Details p {
+  width: 100% !important;
+}
+
+.shop-content {
+  padding: 15px;
+}
+
+.with1, .with2, .coupon-code-2 form  {
+  width: 100% !important;
+  display: inline-block;
+}
+
+.zoomWindowContainer div {
+  border: none !important;
+  margin-left: -275px !important;
+  margin-top: 0;
+  width: 275px !important;
+  height: 100% !important;
+  border-radius: 20px 0px 0px 0px;
+}
+
+
+.shop-cart-content {
+  padding: 0px 15px;
+}
+
+.coupon-code input.txt-box, input#Postcode, .coupon-code-2 form #number {
+  margin-bottom: 15px !important;
+}
+
+.shop-customer p {
+  text-align: left;
+}
+
+.Credit-Card span {
+  font-size: 11px !important;
+}
+
+label.wi1, label.wi2, .Data-Expiry, .verification-Code {
+  width: 100% !important;
+  margin-right: 0 !important;
+}
+
+.form-billing h4 {
+  font-size: 18px !important;
+}
+
+.Promo-style3, .Promo-style4, .Promo-style2, .Promo-style1 {
+  padding: 20px !important;
+}
+
+.side-tabs .tab-content {
+  display: -webkit-inline-box !important;
+}
+
+.bs-docs-section:last-child {
+  padding: 15px !important;
+}
+
+iframe {
+  width: 100% !important;
+}
+
+.Comments-Post ul li ul {
+    margin-left: 0 !important;
+}
+
+
+}
+
