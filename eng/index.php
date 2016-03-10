@@ -45,10 +45,10 @@ include("includes/header.php");
 						</video>
 					</div>
 					<div class="SliderText text-center content-b">
-					<div class="caption lft icon-cont medium_text_shadow tp-resizeme" data-y="90" data-x="center" data-speed="400" data-start="2300"><h2>Quiénes Somos? </h2></div>
-					<div class="caption sft slide-head large_text tp-resizeme" data-x="center" data-y="190" data-speed="400" data-start="3000">Tecnologia para Hoteles!</div>
-					<div class="caption sfb large-desc small_text  tp-resizeme" data-x="center" data-y="250" data-speed="400" data-start="3200"><div><p>Tenemos la solucion definitiva para NO SHOWS en hoteleria</p></div></div>
-					<div class="caption sfb large-desc center tp-resizeme" data-x="center" data-y="350" data-speed="370" data-start="3400"><a href="http://hotelerotech.com/acerca-nosotros.php" class="btn Slicefive activelink">Quiénes Somos?</a>&nbsp;&nbsp;<a href="http://hotelerotech.com/motor-reservas.php" class="btn Slicefive">Soluciones!</a></div>
+					<div class="caption lft icon-cont medium_text_shadow tp-resizeme" data-y="90" data-x="center" data-speed="400" data-start="2300"><h2>Who we are? </h2></div>
+					<div class="caption sft slide-head large_text tp-resizeme" data-x="center" data-y="190" data-speed="400" data-start="3000">Technology for Hotels!</div>
+					<div class="caption sfb large-desc small_text  tp-resizeme" data-x="center" data-y="250" data-speed="400" data-start="3200"><div><p>We have the ultimate solution for NO SHOWS at Hotels!</p></div></div>
+					<div class="caption sfb large-desc center tp-resizeme" data-x="center" data-y="350" data-speed="370" data-start="3400"><a href="http://hotelerotech.com/acerca-nosotros.php" class="btn Slicefive activelink">Who We Are?</a>&nbsp;&nbsp;<a href="http://hotelerotech.com/motor-reservas.php" class="btn Slicefive">Solutions!</a></div>
 					</div>
 				</li>
 			</ul>
@@ -82,10 +82,10 @@ include("includes/header.php");
     	<div class="row">
         	<div class="col-md-12">
                 <div class="title-section text-center">
-                    <h3>Bienvenido a HoteleroTech</h3>
+                    <h3>Welcome to HoteleroTech</h3>
                 </div>
                 <div class="description-welcome text-center">
-                    <p>!Nuestro motor de reservas te permitira cobrar reservas canceladas a ultimo minuto y NO SHOWS. <a href="http://hotelerotech.com/acerca-nosotros.php">Ver más.</a></p>
+                    <p>Our booking system allows to charge for last minute cancelled reservations and NO SHOWS!<a href="http://hotelerotech.com/acerca-nosotros.php">Read More...</a></p>
                 </div>
             </div>
         </div>
@@ -315,11 +315,11 @@ include("includes/header.php");
     	<div class="row">
         	<div class="col-md-12">
                 <div class="title-section-Features text-center">
-                    <h3 style="text-shadow: 1px 1px 1px #000;">Nuestras Soluciones y Servicios</h3>
+                    <h3 style="text-shadow: 1px 1px 1px #000;">Our Solution and Services</h3>
                     <div class="line-break-Features"></div>
                 </div>
                 <div class="description-section-Features text-center">
-                    <p style="text-shadow: 1px 1px 1px #000;">Nuestros Valores: Excelencia, Integridad e Innovación</p>
+                    <p style="text-shadow: 1px 1px 1px #000;">Our Values: Excellence, Integrity and Innovation</p>
                 </div>
             </div>
         </div>
@@ -330,17 +330,17 @@ include("includes/header.php");
 					<ul class="tabs-one col-md-2 tabs-navigation">
 						<li>
 							<div class="Block-Features text-center selected">
-								<a data-content="options" href="#0"><i class="fa fa-cogs"></i><h6>Motor de Reservas</h6></a>
+								<a data-content="options" href="#0"><i class="fa fa-cogs"></i><h6>Booking System</h6></a>
 							</div>
 						</li>
 						<li>
 							<div class="Block-Features text-center">
-								<a data-content="design" href="#0"><i class="fa fa-paint-brush"></i><h6>Diseño Web</h6></a>
+								<a data-content="design" href="#0"><i class="fa fa-paint-brush"></i><h6>Web Design</h6></a>
 							</div>
 						</li>
 						<li>
 							<div class="Block-Features text-center">
-								<a data-content="speed" href="#0"><i  class="fa fa-thumbs-up" ></i><h6>Redes Sociales</h6></a>
+								<a data-content="speed" href="#0"><i  class="fa fa-thumbs-up" ></i><h6>Social Networks</h6></a>
 							</div>
 						</li>
 					</ul>
@@ -357,7 +357,7 @@ include("includes/header.php");
 						</li>
                         <li>
 							<div class="Block-Features text-center">
-								<a data-content="features2" href="#0"><i class="fa fa-rocket"></i><h6>Marketing Digital</h6></a>
+								<a data-content="features2" href="#0"><i class="fa fa-rocket"></i><h6>Digital Marketing</h6></a>
 							</div>
 						</li>
 						<!--<li>
@@ -374,10 +374,10 @@ include("includes/header.php");
 							<div class="col-md-6">
 							
                                
-                               <h2>Motor de Reservas!</h2>
+                               <h2>Booking System</h2>
                                 
-                                <p>HoteleroTECH ofrece un motor de reservas que se integra con la página web de tu hotel y permite a tus huéspedes buscar disponibilidad para sus fechas deseadas, y luego completar el proceso de reserva de manera rápida, realizando...</p>
-								<a class="btn-bck" href="marketing.php">Leer más!</a>
+                                <p>Our booking engine integrates with your website and allows guests to search for availability for given dates, and then complete the whole booking process through to payment online...</p>
+								<a class="btn-bck" href="booking-sytem.php">Read More!</a>
 							</div>
 							<div class="col-md-6">
 								<img src="http://hotelerotech.com/style/images/page/motor-reservas.jpg" alt="about images" width="570" height="296">
@@ -388,9 +388,9 @@ include("includes/header.php");
 					<li data-content="design" class="col-md-6">
 						<div class="block-tabs-content">
 							<div class="col-md-6">
-									<h2>Diseño Web</h2>
-                               <p>Las características de nuestros sitios web son únicas y te darán la ventaja necesaria para sobresalir en un mundo donde cada vez todo es más digital. Totalmente responsive lo cual permite que tu sitio web pueda ser visto sin problemas desde....</p>
-								<a class="btn-bck" href="motor-reservas.php">Leer más!</a>
+									<h2>Web Design</h2>
+                               <p>HoteleroTECH has a team of the best web designers. We focus exclusively on the hotel industry; we build websites completely responsive for all devices and easy to use, helping customers to....</p>
+								<a class="btn-bck" href="web-design.php">Leer más!</a>
 							</div>
 							<div class="col-md-6">
 								<img src="http://hotelerotech.com/style/images/page/diseño-web.jpg" alt="about images" width="570" height="296">
@@ -401,8 +401,8 @@ include("includes/header.php");
 			<li data-content="speed" class="col-md-6">
 						<div class="block-tabs-content">
 							<div class="col-md-6">
-								<h2>Redes Sociales</h2>
-								<p>Más información en los próximos días...</p>
+								<h2>Social Media</h2>
+								<p>More information coming Soon...</p>
 								<a class="btn-bck" href="#">Leer más!</a>
 							</div>
 							<div class="col-md-6">
@@ -415,7 +415,7 @@ include("includes/header.php");
 						<div class="block-tabs-content">
 							<div class="col-md-6">
 								<h2>Mobile - PMS</h2>
-								<p>Más información en los próximos días!</p>
+								<p>More information coming Soon...</p>
 								<a class="btn-bck" href="#">Leer más</a>
 							</div>
 							<div class="col-md-6">
@@ -429,7 +429,7 @@ include("includes/header.php");
 							<div class="col-md-6">
 								<h2>Channel Manager</h2>
 								
-                                <p>Channel Manager, Es un sistema de datos compartido donde el Agencias de reservas  (bookig.com, Despear, Agoda, Expedia etc.) obtienen disponibilidad de habitaciones desde una base de datos agrupada. Por ejemplo, cuando un hotel tiene ..</p>
+                                <p>HoteleroTECH provides channel management solutions that allow hoteliers to efficiently manage room rates, inventory and reservations available through their online distribution channels such as...</p>
                                 
 								<a class="btn-bck" href="channel-manager.php">Leer más</a>
 							</div>
@@ -444,7 +444,7 @@ include("includes/header.php");
 						<div class="block-tabs-content">
 							<div class="col-md-6">
 								<h2>Marketing Digital</h2>
-								<p>Más información en los próximos días!</p>
+								<p>More information coming Soon...</p>
 								<a class="btn-bck" href="#">Leer más</a>
 							</div>
 							<div class="col-md-6">
@@ -1020,11 +1020,11 @@ include("includes/header.php");
     	<div class="row">
         	<div class="col-md-12">
                 <div class="title-section text-center">
-                    <h3>¡SE PARTE DEL GRUPO DE HOTELES QUE CONFIAN EN NOSOTROS! </h3>
+                    <h3>Be part of the Hotels that trusts us! </h3>
                     <div class="line-break"></div>
                 </div>
                 <div class="description-section text-center">
-                    <p>¡SOMOS HOTELEROS TRABAJANDO PARA HOTELEROS!</p>
+                    <p>We are a Hotel as well, working for Hotels!</p>
                 </div>
             </div>
         </div>
@@ -1057,10 +1057,10 @@ include("includes/header.php");
 	<div class="container inner">
     	<div class="row">
         	<div class="Purchase-wrapper">
-            	<h3>Conocenos más y nuestros precios, solicita una cotización rellenando el formulario.</h3>
+            	<h3>Get to know us better, our prices and ask for a quote!</h3>
             </div>
 			<div class="Purchase-Click">
-                <a href="http://hotelerotech.com/contacto.php">Escríbenos!</a>
+                <a href="http://hotelerotech.com/contacto.php">Write Us!</a>
 			</div>
         </div>
     </div>

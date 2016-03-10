@@ -153,10 +153,10 @@
 					<div class="Menu-Header top-menu">
 						<ul class="nav navbar-nav">
 						  <li>
-							<a href="index.php" class="dropdown-toggle js-activated current">Inicio</a>
+							<a href="index.php" class="dropdown-toggle js-activated current">Home</a>
 											  </li>
 				
-                <li><a href="about-us.php">Acerca de Nosotros</a></li>
+                <li><a href="about-us.php">About Us</a></li>
                 
 						  <li>
 						  <a class="dropdown-toggle js-activated" href="#">Solutions</a>

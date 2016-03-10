@@ -14,7 +14,7 @@
 					</div>
                 	<div class="Bottom-Block-Footer">
                     	<div class="About">
-                        	<p style="text-align:center;">Nuestro motor de reservas te permitira cobrar reservas canceladas a ultimo minuto y NO SHOWS.</p>
+                        	<p style="text-align:center;">Our booking system allows to charge for last minute cancelled reservations and NO SHOWS!</p>
                         </div>
                     </div>
                     
@@ -28,7 +28,7 @@
 
             	<div class="col-md-4">
                 	<div class="Top-Block-Footer">
-                    	<h2>Contacto</h2>
+                    	<h2>Contact Us</h2>
                     </div>
                     <div class="divcod20"></div>
 					<div class="Contact-Footer">
@@ -37,7 +37,7 @@
 							<li><i class="fa fa-map-marker"></i><p>Quito, Ecuador</p></li>
 							<li><i class="fa fa-phone"></i><p>(+593) 995-470312</p></li>
 							<li><i class="fa fa-envelope"></i><p>info@hotelerotech.com</p></li>
-                            <li><a href="http://hotelerotech.com/terminos-condiciones.php">Términos y Condiciones</a></li>
+                            <li><a href="http://hotelerotech.com/terminos-condiciones.php">Terms and Conditions</a></li>
 						</ul>
 					</div>
                 </div>
@@ -49,7 +49,7 @@
 
 				<div class="col-md-4 mobile3">
 					<div class="Top-Block-Footer">
-						<h2>Síganos!</h2>
+						<h2>Follow Us!</h2>
 					</div>
 					<div class="divcod20"></div>
 					<div class="Bottom-Block-Footer">
@@ -93,10 +93,10 @@
 			<div class="col-md-6 text-right">
             	<div class="Link-Footer">
                 	<ul>
-                    	<li><a href="index.php">Inicio</a></li>
+                    	<li><a href="index.php">Home</a></li>
         
                     	
-                    	<li><a href="contacto.php">Contacto</a></li>
+                    	<li><a href="contacto.php">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
