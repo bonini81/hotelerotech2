@@ -156,12 +156,12 @@
 							<a href="index.php" class="dropdown-toggle js-activated current">Inicio</a>
 											  </li>
 				
-                <li><a href="acerca-nosotros.php">Acerca de Nosotros</a></li>
+                <li><a href="about-us.php">Acerca de Nosotros</a></li>
                 
 						  <li>
-						  <a class="dropdown-toggle js-activated" href="#">Soluciones</a>
+						  <a class="dropdown-toggle js-activated" href="#">Solutions</a>
 							<ul class="dropdown-menu">
-							  <li><a href="motor-reservas.php">Motor de Reservas</a></li>
+							  <li><a href="mo.php">Booking Engine</a></li>
 							  <li><a href="channel-manager.php">Channel Manager</a></li>
 							  <li><a href="#">Mobile - PMS </a></li>
                                <li><a href="marketing.php">Marketing</a></li>
@@ -171,11 +171,11 @@
                           	
                           
                             <li>
-						  <a  href="cotizacion.php">Precios</a>
+						  <a  href="prices.php">Prices</a>
 						  </li>
                           
                             <li>
-						  <a href="contacto.php">Contacto</a>
+						  <a href="contact-us.php">Contact Us</a>
 						  </li>
                           
 					
