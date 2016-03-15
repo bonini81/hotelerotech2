@@ -1,5 +1,5 @@
 <?php
-$title = "Formulario de Contacto";
+$title = "Contact Page";
 include("includes/header.php");
 ?>
 
@@ -12,10 +12,10 @@ include("includes/header.php");
     	<div class="row">
             <div class="Page-title">
 				<div class="col-md-6 Title-Pages">
-                	<h2>Contacto</h2>
+                	<h2>Contact</h2>
                 </div>
                 <div class="col-md-6 Catogry-Pages">
-					<p>Usted está aquí :  <a href="#">Inicio</a> / <a href="#">Contacto</a></p>
+					<p>You are Here :  <a href="#">Home</a> / <a href="#">Contact Us</a></p>
                 </div>
             </div>
  		</div>
@@ -80,12 +80,13 @@ include("includes/header.php");
     	<div class="row">
         	<div class="col-md-12">
                 <div class="title-section text-center">
-                    <h3>¡Ponte en contacto con nosotros!</h3>
+                    <h3>Get in touch with us!</h3>
                    
                     <div class="line-break"></div>
                 </div>
                 <div class="description-section text-center">
-                    <p>Danos la oportunidad de mostrarle el potencial de nuestros productos y cómo podemos ayudar en el día a día las operaciones de tu hotel. Llena nuestro formulario o envíenos un correo electrónico con cualquier pregunta.</p>
+                <p>Give us the chance to show the potential of our products and how they can help on the day to day operations of your hotel.  Fill out our form for any questions!</p>
+
                 </div>
             </div>
         </div>
@@ -96,25 +97,25 @@ include("includes/header.php");
 					<form class="leave-comment contact-form" method="post" action="http://hotelerotech.com/formsend.php" id="cform" autocomplete="on">
 						<div class="Contact-us">
 							<div class="form-input">
-								<input type="text" name="nombre" placeholder="Nombre" required>
+								<input type="text" name="nombre" placeholder="Name" required>
 							</div>
 							<div class="form-input">
 								<input type="email" name="email"  placeholder="Email" required>
 							</div>
                             
                             <div class="form-input" style="margin-right:30px;">
-								<input type="text" name="telefono"  placeholder="Télefono" required>
+								<input type="text" name="telefono"  placeholder="Phone Number" required>
 							</div>
                             
                             <div class="form-input">
-								<input type="text" name="company"  placeholder="Compañia*" required>
+								<input type="text" name="company"  placeholder="Company*" required>
 							</div>
                             
 							<div class="form-textarea">
-								<textarea class="txt-box textArea" name="message" cols="40" rows="7" id="messageTxt" placeholder="Mensaje" spellcheck="true" required></textarea>
+								<textarea class="txt-box textArea" name="message" cols="40" rows="7" id="messageTxt" placeholder="Message" spellcheck="true" required></textarea>
 							</div>
 							<div class="form-submit">
-								<input type="submit" class="btn btn-large main-bg" value="Enviar">
+								<input type="submit" class="btn btn-large main-bg" value="Send">
 							</div>
 						</div>
 					</form>
@@ -123,13 +124,13 @@ include("includes/header.php");
 			<div class="col-md-4">
 				<div class="Contact-Info">
 					<div class="Title-Contact">
-						<h3>Dirección:</h3>
+						<h3>Address:</h3>
 					</div>
 					<div class="Block-Contact">
 						<ul>
 							<li>
 								<i class="fa fa-map-marker"></i>
-								<p>Calle 24 de septiembry Tobias Trujillo E, Tababela, Quito - Ecuador</p>
+								<p>Calle 24 de septiembre y Tobias Trujillo E, Tababela, Quito - Ecuador</p>
 							</li>
 							<li>
 								<i class="fa fa-phone"></i>
