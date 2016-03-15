@@ -13,10 +13,10 @@ include("includes/header.php");
     	<div class="row">
             <div class="Page-title">
 				<div class="col-md-6 Title-Pages">
-                	<h2>Motor de Reservas</h2>
+                	<h2>Booking Engine</h2>
                 </div>
                 <div class="col-md-6 Catogry-Pages">
-					<p>Usted está aquí:  <a href="#">Inicio</a> / <a href="#">Serivicios</a> /   Motor de Reservas</p>
+					<p>You are here:  <a href="#">Home</a> / <a href="#">Services</a> /   Booking Engine</p>
                 </div>
             </div>
  		</div>
@@ -62,15 +62,24 @@ include("includes/header.php");
     	<div class="row">
         	<div class="col-md-6">
             	<div class="TextImg-Block">
-                	<h1>Motor de Reservas</h1>
+                	<h1>Booking Engine</h1>
                     <div class="line-break"></div>
-                    
-                    <p>HoteleroTECH ofrece un motor de reservas que se integra con la página web de tu hotel y permite a tus huéspedes buscar disponibilidad para sus fechas deseadas, y luego completar el proceso de reserva de manera rápida, realizando el pago en línea inmediato! De esta manera evitaras perdidas innecesarias en caso de <strong>NO SHOWS</strong></p>
-                    
-<p>Una de las mayores ventajas de nuestro motor de reservas es la completa  integración y adaptabilidad con cualquier sitio web, PMS o Channel Manager,  con los cuales trabajan a la perfeccion, esto permite maximizar la presencia online del hotel.</p>
 
-<p>Nuestro motor de reservas ofrece una alta tasa de conversión de visitantes a clientes. También ofrece sofisticadas herramientas que ayudan a los hoteleros a aumentan su exposición en línea y elevar sus ingresos.</p>
-                   
+
+
+<p>Our booking engine integrates with your website and allows guests to search for availability for given dates, and then complete the whole booking process through to payment online. </p>
+<p>The HoteleroTECH Hotel Booking Engine is the most adaptable integrated website booking engine available on the Market. One of the biggest advantages of our booking engine is the complete integration with property management system (PMS) and channel manager working together perfectly maximizing hotel’s online presence.</p>
+<p>Our booking engine provides a high rate of converting web visitors into bookers. It also provides ample tools that help hoteliers increase their online exposure and drive up revenue.</p>
+
+<h3>Features</h3>
+<ul>
+<li class="check">Fast and Easy Bookings</li>
+<li class="check">Channel Manager</li>
+<li class="check">PMS Integration</li>
+<li class="check">Central Reservation System</li>
+<li class="check">TripConnect Premium Partner</li>
+<li class="check">And More...</li>
+    </ul>                       
                 </div>
             </div>
             
@@ -101,10 +110,10 @@ include("includes/header.php");
 	<div class="container inner">
     	<div class="row">
         	<div class="Purchase-wrapper">
-            	<h3>Conocenos más y nuestros precios, solicita una cotización rellenando el formulario.</h3>
+            	<h3>Get to know us and our prices, ask for a quote by filling out our form.</h3>
             </div>
 			<div class="Purchase-Click">
-                <a href="#">Escríbenos!</a>
+                <a href="contact-us.php">Contact Us!</a>
 			</div>
         </div>
     </div>

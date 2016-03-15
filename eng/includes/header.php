@@ -161,7 +161,7 @@
 						  <li>
 						  <a class="dropdown-toggle js-activated" href="#">Solutions</a>
 							<ul class="dropdown-menu">
-							  <li><a href="mo.php">Booking Engine</a></li>
+							  <li><a href="booking-system.php">Booking Engine</a></li>
 							  <li><a href="channel-manager.php">Channel Manager</a></li>
 							  <li><a href="#">Mobile - PMS </a></li>
                                <li><a href="marketing.php">Marketing</a></li>
