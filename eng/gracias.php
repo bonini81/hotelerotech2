@@ -1,5 +1,5 @@
 <?php
-$title ="Muchas Gracias!";
+$title ="Thanks a lot!";
 include("includes/header.php");
 ?>
 
@@ -13,10 +13,10 @@ include("includes/header.php");
     	<div class="row">
             <div class="Page-title">
 				<div class="col-md-6 Title-Pages">
-                	<h2>Gracias</h2>
+                	<h2>Thanks a lot!</h2>
                 </div>
                 <div class="col-md-6 Catogry-Pages">
-					<p>Usted está aquí:  <a href="#">Inicio</a> / Gracias</p>
+					<p>You are Here:  <a href="#">Home</a> / Thanks</p>
                 </div>
             </div>
  		</div>
@@ -62,10 +62,11 @@ include("includes/header.php");
     	<div class="row">
         	<div class="col-md-6">
             	<div class="TextImg-Block">
-                	<h1>Gracias</h1>
+                	<h1>Thank You!</h1>
                     <div class="line-break"></div>
                     
-                    <p>Muchas Gracias por contactarnos, nos comunicaremos lo más pronto posible con usted!</p>
+                    <p>Thanks a lot for contacting us, we all get back to you as soon as possible!</p>
+                    
                    
                 </div>
             </div>

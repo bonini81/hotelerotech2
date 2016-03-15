@@ -85,7 +85,7 @@ include("includes/header.php");
                     <div class="line-break"></div>
                 </div>
                 <div class="description-section text-center">
-                <p>Give us the chance to show the potential of our products and how they can help on the day to day operations of your hotel.  Fill out our form for any questions!</p>
+                <p>Give us the opportunity to show you the potentials of our products and services and how it can help you in day to day operations, please fill out our request form below and or e-mail us any questions</p>
 
                 </div>
             </div>

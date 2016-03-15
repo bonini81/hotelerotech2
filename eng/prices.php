@@ -1,5 +1,5 @@
 <?php
-$title = "Cotización de Precios | HoteleroTech";
+$title = "Our Prices | HoteleroTech";
 include("includes/header.php");
 
 ?>
@@ -13,10 +13,10 @@ include("includes/header.php");
     	<div class="row">
             <div class="Page-title">
 				<div class="col-md-6 Title-Pages">
-                	<h2>Cotización</h2>
+                	<h2>Price Quote</h2>
                 </div>
                 <div class="col-md-6 Catogry-Pages">
-					<p>Usted está aquí :  <a href="#">Inicio</a> / <a href="#">Cotización</a></p>
+					<p>You are here :  <a href="#">Home</a> / <a href="#">Prices</a></p>
                 </div>
             </div>
  		</div>
@@ -33,12 +33,12 @@ include("includes/header.php");
     	<div class="row">
         	<div class="col-md-12">
                 <div class="title-section text-center">
-                    <h3>Solicita una Cotización!</h3>
+                    <h3>Request for a Price Quote!</h3>
                     <div class="line-break"></div>
                 </div>
                 <div class="description-section text-center">
-                    <p> Nuestro motor de reservas que te permitira cobrar NO SHOWS no tiene ningun costo mensual! unicamente $ 30 de instalacion!  No cobramos ninguna cantidad mensual por mantenimiento. Si estás interesado en conocer más sobre HoteleroTECH y nuestros precios, por favor solicita una cotización rellenando el siguiente formulario. 
-Nuestro equipo se pondrá en contacto con usted en 24 horas.
+                    <p>
+If you are interested in getting to know more about HoteleroTECH and its pricing, please request a quote from us by filling the form below. Our team will contact you within 24 hours with a quote.
 </p>
                 </div>
             </div>
@@ -54,26 +54,26 @@ Nuestro equipo se pondrá en contacto con usted en 24 horas.
                        
 						<div class="Contact-us">
 							<div class="form-input">
-								<input type="text" placeholder="Nombre" required>
+								<input type="text" placeholder="Name" required>
 							</div>
 							<div class="form-input">
 								<input type="email" placeholder="Email" required>
 							</div>
                             
                             <div class="form-input" style="margin-right:30px;">
-								<input type="text" placeholder="Télefono" required>
+								<input type="text" placeholder="Telephone" required>
 							</div>
                             
                             <div class="form-input">
-								<input type="text" placeholder="Compañia*" required>
+								<input type="text" placeholder="Company*" required>
 							</div>
                             
                             
 							<div class="form-textarea">
-								<textarea class="txt-box textArea" name="message" cols="40" rows="7" id="messageTxt" placeholder="Mensaje" spellcheck="true" required></textarea>
+								<textarea class="txt-box textArea" name="message" cols="40" rows="7" id="messageTxt" placeholder="Message" spellcheck="true" required></textarea>
 							</div>
 							<div class="form-submit">
-								<input type="submit" class="btn btn-large main-bg" value="Enviar">
+								<input type="submit" class="btn btn-large main-bg" value="Send">
 							</div>
 						</div>
 					</form>
@@ -82,13 +82,13 @@ Nuestro equipo se pondrá en contacto con usted en 24 horas.
 			<div class="col-md-4">
 				<div class="Contact-Info">
 					<div class="Title-Contact">
-						<h3>Datos de Contacto:</h3>
+						<h3>Contact Information:</h3>
 					</div>
 					<div class="Block-Contact">
 						<ul>
 							<li>
 								<i class="fa fa-map-marker"></i>
-								<p>Calle 24 de septiembry Tobias Trujillo E, Tababela, Quito - Ecuador</p>
+								<p>Calle 24 de septiembre y Tobias Trujillo E, Tababela, Quito - Ecuador</p>
 							</li>
 							<li>
 								<i class="fa fa-phone"></i>
