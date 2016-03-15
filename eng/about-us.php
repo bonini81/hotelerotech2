@@ -13,10 +13,10 @@ include("includes/header.php");
     	<div class="row">
             <div class="Page-title">
 				<div class="col-md-6 Title-Pages">
-                	<h2>Acerca de Nosotros</h2>
+                	<h2>About Us</h2>
                 </div>
                 <div class="col-md-6 Catogry-Pages">
-					<p>Usted está aquí:  <a href="#">Inicio</a> / <a href="#">Acerca de Nosotros</a></p>
+					<p>You are here:  <a href="#">Home</a> / <a href="#">About Us</a></p>
                 </div>
             </div>
  		</div>
@@ -62,13 +62,13 @@ include("includes/header.php");
     	<div class="row">
         	<div class="col-md-12">
                 <div class="title-section text-center">
-                    <h3>Qué es HoteleroTECH?</h3>
+                    <h3>What is HoteleroTECH?</h3>
                     <div class="line-break"></div>
                 </div>
                 <div class="description-section text-center">
               
 
-                    <h4><strong>Valores:</strong> Excelencia, Integridad e Innovación</h4>
+                    <h4><strong>Values:</strong> Excellence, Integrity and Innovation</h4>
                      <div class="line-break"></div>
                 </div>
             </div>
@@ -89,19 +89,18 @@ include("includes/header.php");
 				</div>
                 <br/>
                                 
-                <h4 style="margin-top:15px;">Que nos hace diferentes:</h4>
+                <h4 style="margin-top:15px;">What make us different:</h4>
                 
                 
                 
 <ul>
-<li class="check">No verás reducidas tus ganancias por NO SHOWS</li>
-<li class="check">Nos enfocamos exclusivamente en la industria hotelera</li>
-<li class="check">Somos hoteleros trabajando para hoteleros</li>
-<li class="check">Reinvertimos nuestras ganancias en nuevas tecnologías vanguardistas</li>
-<li class="check">Aplicamos tecnología global a negocios locales</li>
-<li class="check">Producimos resultados rentables y reales a nuestros hoteleros</li>
-<li class="check">Garantizamos puntualidad y eficiencia</li>
-
+<li class="check">We avoid losing profits due to NO SHOWS</li>
+<li class="check">Exclusively focused on the hotel industry</li>
+<li class="check">We are hoteliers working for hoteliers </li>
+<li class="check">We constantly reinvest in innovative technologies</li>
+<li class="check">We apply global technology in local business</li>
+<li class="check">We produce real, profitable results for our hotels</li>
+<li class="check">We guarantee punctuality and efficiency</li>
 </ul>
                 
             </div>
@@ -109,16 +108,16 @@ include("includes/header.php");
             <div class="col-md-6">
             	<div class="Text-About">
                 
-                  <p>Somos una empresa Ecuatoriana establecida en Quito, con años de experiencia global en el sector hotelero tecnológico. Hemos identificado que el principal problema de hoteles pequeños y medianos es la incapacidad o falta de tecnología para realizar cobros por NO SHOWS lo cual ocasiona grandes pérdidas al hotel, ya que los bancos o entidades financieras no ofrecen este tipo de tecnología por razones de seguridad. HoteleroTECH dispone de la tecnología global necesaria para que nunca más vuelvas a dejar un NO SHOW sin cobrar. </p>
+<p>We are an Ecuadorian company based in Quito with years of worldwide experience in the Hotel technology industry.</p>
+<p>The internet is changing the way we live and work. Tablets, computers, and sophisticated smartphones have opened up new possibilities not yet embraced by today’s managers. HoteleroTECH is aimed at re-thinking the whole interaction between the hotel and their customers in a way that will simplify all business processes for the hotel staff, and will enhance the guest experience and satisfaction.</p>
+<p>At HoteleroTECH we are committed to building easy, intuitive and simple hotel management tools to improve your hotel evolution, connect your guests, and increase your revenue.</p>
 
-<p>El internet está cambiando la forma en que vivimos y trabajamos. Computadoras, tabletas, y sofisticados teléfonos inteligentes han abierto nuevas posibilidades que aún no están siendo aprovechadas por directivos hoteleros.  En HoteleroTECH estamos revolucionando la industria hotelera, y la interacción entre empleados y clientes en una forma de simplificar el proceso tradicional de manejo de sistemas hoteleros e incrementar la satisfacción de los huéspedes.
 
-<p>Estamos comprometidos en crear herramientas de manejo hotelero inteligente, intuitivas, y de fácil uso, para mejorar la evolución de los hoteles, conectar con tus huéspedes e incrementar tus ingresos.</p>
-                
-                	<h3>Misión</h3>
-<p>Proveer tecnología vanguardista e innovadora a hoteles para mejorar sus procesos internos, incrementar sus ingresos y la satisfacción de sus clientes.</p>
-<h3>Visión</h3>
-<p>Convertirnos en una empresa líder en tecnología hotelera a nivel global.</p>
+      
+                	<h3>Mission</h3>
+<p>To provide cutting-edge technology for hotels in order to improve their internal processes and increase customer satisfaction.</p>
+<h3>Vision</h3>
+<p>To become a technology global leader in the hospitality industry.</p>
 
 
                 </div>
@@ -138,10 +137,10 @@ include("includes/header.php");
 	<div class="container inner">
     	<div class="row">
         	<div class="Purchase-wrapper">
-            	<h3>Conocenos más y nuestros precios, solicita una cotización rellenando el formulario.</h3>
+            	<h3>Get to know us and our prices, ask for a quote by filling out our form.</h3>
             </div>
 			<div class="Purchase-Click">
-                <a href="http://hotelerotech.com/contacto.php">Escríbenos!</a>
+                <a href="http://hotelerotech.com/eng/contact-us.php">Contact Us!</a>
 			</div>
         </div>
     </div>
