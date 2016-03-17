@@ -87,8 +87,26 @@ include("includes/header.php");
                    <div><img src="http://hotelerotech.com/style/images/page/acerca-nosotros3.jpg" alt="about images" width="570" height="420"></div>
 				 
 				</div>
-                <br/>
-                                
+              
+
+              
+                    <h3>Mission</h3>
+<p>To provide cutting-edge technology for hotels in order to improve their internal processes and increase customer satisfaction.</p>
+<h3>Vision</h3>
+<p>To become a technology global leader in the hospitality industry.</p>
+
+               
+            </div>
+            
+            <div class="col-md-6">
+            	<div class="Text-About">
+                
+<p>We are an Ecuadorian company based in Quito with years of worldwide experience in the Hotel technology industry.</p>
+<p>The internet is changing the way we live and work. Tablets, computers, and sophisticated smartphones have opened up new possibilities not yet embraced by today’s managers. HoteleroTECH is aimed at re-thinking the whole interaction between the hotel and their customers in a way that will simplify all business processes for the hotel staff, and will enhance the guest experience and satisfaction.</p>
+<p>At HoteleroTECH we are committed to building easy, intuitive and simple hotel management tools to improve your hotel evolution, connect your guests, and increase your revenue.</p>
+
+
+                       
                 <h4 style="margin-top:15px;">What make us different:</h4>
                 
                 
@@ -103,22 +121,6 @@ include("includes/header.php");
 <li class="check">We guarantee punctuality and efficiency</li>
 </ul>
                 
-            </div>
-            
-            <div class="col-md-6">
-            	<div class="Text-About">
-                
-<p>We are an Ecuadorian company based in Quito with years of worldwide experience in the Hotel technology industry.</p>
-<p>The internet is changing the way we live and work. Tablets, computers, and sophisticated smartphones have opened up new possibilities not yet embraced by today’s managers. HoteleroTECH is aimed at re-thinking the whole interaction between the hotel and their customers in a way that will simplify all business processes for the hotel staff, and will enhance the guest experience and satisfaction.</p>
-<p>At HoteleroTECH we are committed to building easy, intuitive and simple hotel management tools to improve your hotel evolution, connect your guests, and increase your revenue.</p>
-
-
-      
-                	<h3>Mission</h3>
-<p>To provide cutting-edge technology for hotels in order to improve their internal processes and increase customer satisfaction.</p>
-<h3>Vision</h3>
-<p>To become a technology global leader in the hospitality industry.</p>
-
 
                 </div>
             </div>

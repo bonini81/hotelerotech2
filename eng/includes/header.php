@@ -106,7 +106,7 @@
 					<div class="Link-ul">
 						<ul class="icons-ul">
                     
-							<li><a href="http://hotelerotech.com/"><span>eng</span></a></li>
+							<li><a href="http://hotelerotech.com/eng/index.php"><span>eng</span></a></li>
 							<li><a href="http://hotelerotech.com/"><span>es</span></a></li>
 						
 						</ul>

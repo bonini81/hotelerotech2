@@ -1,5 +1,5 @@
 <?php
-$title = "HoteleroTECH, Tecnología para Hoteles - Quito, Ecuador";
+$title = "HoteleroTECH, Technology for Hotels - Quito, Ecuador";
 include("includes/header.php");
 ?>
 

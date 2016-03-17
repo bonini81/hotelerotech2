@@ -16,7 +16,7 @@ include("includes/header.php");
                 	<h2>Channel Manager</h2>
                 </div>
                 <div class="col-md-6 Catogry-Pages">
-					<p>Usted está aquí:  <a href="#">Inicio</a> / <a href="#">Serivicios</a> /   Channel Manager</p>
+					<p>You are here:  <a href="#">Home</a> / <a href="#">Services</a> /   Channel Manager</p>
                 </div>
             </div>
  		</div>
@@ -65,15 +65,19 @@ include("includes/header.php");
                 	<h1>Channel Manager</h1>
                     <div class="line-break"></div>
                     
-                    <p>Channel Manager, Es un sistema de datos compartido donde el Agencias de reservas  (bookig.com, Despear, Agoda, Expedia etc.) obtienen disponibilidad de habitaciones desde una base de datos agrupada. Por ejemplo, cuando un hotel tiene 10 habitaciones, todas las 10 habitaciones serán introducidas dentro del sistema de datos (channel manager), y todas las agencias de Reserva o canales de distribución con los que el hotel ha establecido contratos, podrán revisar disponibilidad y realizar reservas desde esta base de datos.</p>
-<p>Esto significa que todas las agencias de tendrán acceso a las 10 habitaciones, y estas serán reservadas al primero que las elija. Esto es un aventaja extraordinaria, ya que no habrá que preocuparse que todas las habitaciones sean reservadas, o que otras habitaciones se queden sin ser reservadas en un solo sitio sea este booking, expedia, hostel world o cualquier otro.  Nuestro channel manager, te ahorra tiempo ya que todos las agencias de reserva y tu propia página web son manejados desde un solo sitio. Así se logra mejorar la disponibilidad de habitaciones, ahorrar tiempo, evitar Overbookings, y pagar demasiadas comisiones a terceros.
-Nuestro Channel Manager muestra toda la información relevante en una sola pantalla. El administrador hotelero puede ver inmediatamente listas de:</p>
+
+<p>HoteleroTECH provides channel management solutions that allow hoteliers to efficiently manage room rates, inventory and reservations available through their online distribution channels such as Expedia, Booking.com, despegar etc.</p>
+<p>Our Channel Manager can be accessed from anywhere at any given time through smart phones/tablets which keep you updated without any hassle no matter where you are. The Channel Manager ensures that your rooms are distributed globally by making your property connect to Global Distribution System (GDS). </p>
+<p>In addition to GDS, we have a comprehensive list of channel partners with whom our Channel Manager is currently compatible with, and new channels are always added on a regular basis. In today's highly competitive market, global exposure is must and HoteleroTECH gives you the right tool to attract new guests.</p>
+
+
 <ul>
-<li class="check">Nuevas Reservas</li>
-<li class="check">Reservas pasadas y canceladas</li>
-<li class="check">Llegadas y salidas recientes</li>
-<li class="check">Habitaciones disponibles y ocupadas</li>
-<li class="check">Comentarios importantes y sus estados actuales</li>
+<li class="check">Single-point dashboard for managing distribution channels</li>
+<li class="check">Instant automatic update</li>
+<li class="check">Yield Management</li>
+<li class="check">Maintain rate parity without any effort</li>
+<li class="check">Rate spider - Monitor your competitor's rates</li>
+<li class="check">And More...</li>
 </ul>
                    
                 </div>
@@ -106,10 +110,10 @@ Nuestro Channel Manager muestra toda la información relevante en una sola panta
 	<div class="container inner">
     	<div class="row">
         	<div class="Purchase-wrapper">
-            	<h3>Conocenos más y nuestros precios, solicita una cotización rellenando el formulario.</h3>
+            	<h3>Get to know us and our prices, ask for a quote by filling out our form.</h3>
             </div>
 			<div class="Purchase-Click">
-                <a href="#">Escríbenos!</a>
+                <a href="contact-us.php">Contact Us!</a>
 			</div>
         </div>
     </div>

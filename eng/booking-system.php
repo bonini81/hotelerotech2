@@ -1,5 +1,5 @@
 <?php
-$title = "Motor de Reservas";
+$title = "Booking System | HoteleroTech.com";
 include("includes/header.php");
 ?>
 
@@ -71,7 +71,7 @@ include("includes/header.php");
 <p>The HoteleroTECH Hotel Booking Engine is the most adaptable integrated website booking engine available on the Market. One of the biggest advantages of our booking engine is the complete integration with property management system (PMS) and channel manager working together perfectly maximizing hotel’s online presence.</p>
 <p>Our booking engine provides a high rate of converting web visitors into bookers. It also provides ample tools that help hoteliers increase their online exposure and drive up revenue.</p>
 
-<h3>Features</h3>
+<h4>Features</h4>
 <ul>
 <li class="check">Fast and Easy Bookings</li>
 <li class="check">Channel Manager</li>

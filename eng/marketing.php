@@ -1,5 +1,5 @@
 <?php
-$title = "Marketing: Diseño Web - Redes Sociales";
+$title = "Marketing: Web Design - Social Media";
 include("includes/header.php");
 ?>
 
@@ -13,10 +13,10 @@ include("includes/header.php");
     	<div class="row">
             <div class="Page-title">
 				<div class="col-md-6 Title-Pages">
-                	<h2>Marketing: Diseño Web - Redes Sociales</h2>
+                	<h2>Marketing: Web Design - Social Media</h2>
                 </div>
                 <div class="col-md-6 Catogry-Pages">
-					<p>Usted está aquí:  <a href="#">Inicio</a> / <a href="#">Serivicios</a> / Marketing</p>
+					<p>You are here:  <a href="#">Home</a> / <a href="#">Services</a> / Marketing</p>
                 </div>
             </div>
  		</div>
@@ -62,19 +62,29 @@ include("includes/header.php");
     	<div class="row">
         	<div class="col-md-6">
             	<div class="TextImg-Block">
-                	<h1>Marketing: Diseño Web - Redes Sociales</h1>
+                	<h1>Marketing: Web Design - Social Media</h1>
                     <div class="line-break"></div>
                     
-                    <p>Las características de nuestros sitios web son únicas y te darán la ventaja necesaria para sobresalir en un mundo donde cada vez todo es más digital.</p>
+<h4>WEBSITE</h4>
+<p>HoteleroTECH has a team of the best web designers. We focus exclusively on the hotel industry; we build websites completely responsive for all devices and easy to use, helping customers to find your hotel easily and quickly from anywhere in the world. </p>
+<h4>Main Features</h4>
 <ul>
-<li class="check">Totalmente <strong>responsive</strong> lo cual permite que tu sitio web pueda ser visto sin problemas desde cualquier dispositivo de cualquier tamaño, smartphone, tableta, PC etc.</li>
-<li class="check">Completamente Multilingue</li>
+<li class="check">Great variety of web designs available. </li>
+<li class="check">You can load as many photos and videos as you want and even upload documents for your customers</li>
 
-<li class="check">Una gran variedad de diseños web disponibles </li>
-<li class="check">Puede cargar tantas fotos y videos como desees, e incluso subir documentos para tus clientes (folletos, presentaciones, mapas, etc).
-</li>
-<li class="check">También puedes añadir tantas páginas adicionales como desees sin costo alguno, esto es muy util para promover eventos especiales, promociones o nuevas ofertas del hotel etc.</li>
+<li class="check">Fully responsive to allow your website to be viewed any size device from smartphone, to tablets or desktop.</li>
+<li class="check">Fully multi-lingual.</li>
+<li class="check">Google maps loaded, social media buttons for liking and sharing.</li>
+<li class="check">We can also quickly drop in our booking engine so you can take instant bookings</li>
 </ul>
+
+
+<h4>DIRECT EMAIL MARKETING</h4>
+<p>Using our HoteleroTECH Direct email marketing system our experts team guide you in the right direction to creating effective, targeted e-mail marketing campaigns.</p>
+<h4>SEARCH ENGINE OPTIMISATION </h4>
+<p>Our marketing team of Search Engine Optimization specialists will work along with you to achieve exceptional search engine results and increase your organic website traffic.</p>
+
+
                    
                 </div>
             </div>
@@ -87,6 +97,15 @@ include("includes/header.php");
             
 				  
 				</div>
+				<p>&nbsp;</p>
+
+<h4>SOCIAL MEDIA SUPPORT</h4>
+<p>Our experienced team will work with you to comprehend the social media needs of your hotel and develop an effective way to make social media work for you. </p>
+<h4>DIGITAL MARKETING PLAN </h4>
+<p>Through our expertise and a careful evaluation of your hotel brand, we will develop a comprehensive digital marketing plan that will exceed your expectations.</p>
+
+
+
             </div>
 		</div>
     </div>
